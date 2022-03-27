@@ -11,6 +11,7 @@
   inputs.src-OTP-master.ref   = "refs/heads/master";
   inputs.src-OTP-master.owner = "OpenSystemsLab";
   inputs.src-OTP-master.repo  = "otp.nim";
+  inputs.src-OTP-master.dir   = "";
   inputs.src-OTP-master.type  = "github";
   
   inputs."hmac".owner = "nim-nix-pkgs";
